@@ -5,7 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { MessageCircle, FileText, Receipt, Check } from "lucide-react"
 
-const whatsappUrl = "https://w.app/yg0ucw"
+const whatsappUrl = "https://wa.me/5583986391852?text=Ol%C3%A1%2C%20desejo%20atendimento"
 
 export default function SkyWebsite() {
   return (
