@@ -297,7 +297,7 @@ export default function SkyWebsite() {
             </div>
             <div>
               <h4 className="text-white font-semibold mb-4">Contato</h4>
-              <p className="text-gray-400 mb-2">WhatsApp: (22) 99814-1891</p>
+              <p className="text-gray-400 mb-2">WhatsApp: (83) 98639-1852</p>
               <Link href={whatsappUrl}>
                 <Button className="bg-red-600 hover:bg-red-700">
                   <MessageCircle className="mr-2 h-4 w-4" />
